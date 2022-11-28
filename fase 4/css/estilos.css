@@ -1,28 +1,28 @@
 .Encabezado{
-    background-color: rgba(119, 0, 255, 0.678) ;
+    background-color: rgb(0, 195, 255) ;
     padding: 30px;
 }
 .Navegacion{
-    background-color: rgb(0, 183, 255) ;
+    background-color: rgba(191, 231, 200, 0.678) ;
     padding: 30px;
 }
 .contenedor{
-    background-color: blue;
+    background-color: rgb(0, 255, 128);
     padding: 30px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .Principal{
-    background-color: rgb(80, 229, 255);
+    background-color: rgb(80, 98, 255);
     padding: 30px;
     grid-column: 2/5;
 }
 .lateral{
-    background-color: rgb(20, 220, 143);
+    background-color: rgb(20, 220, 37);
     padding: 30px;
     grid-column: 1/2;
 }
 .pie{
-    background-color: rgba(118, 64, 145, 0.404);
+    background-color: darkorchid;
     padding: 30px;
 }
